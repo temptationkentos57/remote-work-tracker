@@ -1,0 +1,12 @@
+{
+  "name": "remote-work-tracker",
+  "version": "1.0.0",
+  "description": "Ứng dụng theo dõi công việc từ xa",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
