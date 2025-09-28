@@ -5,3 +5,5 @@ dist/
 .env
 logs/
 coverage/
+*.log
+*.tmp
